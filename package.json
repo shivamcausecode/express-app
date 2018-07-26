@@ -7,9 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "nyc mocha"
   },
-  "author": "",
+  "author": "Shivam Pandey",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
