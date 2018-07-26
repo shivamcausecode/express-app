@@ -7,6 +7,4 @@ MongoClient.connect(url, function(err, db){
     }
 
     console.log('Hi Express, Welcome to MongoDB');
-
-    db.close();
 });
