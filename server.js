@@ -30,4 +30,10 @@ app.post('/handle', function(request, response) {
     console.log(query2);
 });
 
+
+function addTwoNumbers(x, y) {
+    return x + y;
+  }
+  console.log(addTwoNumbers(5, 1));
+
 app.listen(3000, ()=>console.log('express server has been started at port 3000'));
