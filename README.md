@@ -6,4 +6,4 @@ Steps to run:
 
 2. npm start
 
-<img width="600" alt="webpack-bundle-analyzer" src="https://http://recordit.co/s5MPn6lVcS">
+<img width="600" alt="webpack-bundle-analyzer" src="https://github.com/shivamcausecode/express-app/blob/mongodb-react-express/crud-video.gif">
